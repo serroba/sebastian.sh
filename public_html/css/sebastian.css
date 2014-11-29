@@ -12,12 +12,11 @@ and open the template in the editor.
 	border-radius: 10px;
 	height: 150px;
 	padding: 30px;
-	margin: 0 auto;
+	margin: 100px auto;
 	width: 150px;
 }
 
 .header-container .title{
-	color: black;
 	font-weight: bold;
-	
+	font-size: 54px;
 }
