@@ -20,7 +20,9 @@ and open the template in the editor.
 	font-weight: bold;
 	font-size: 100px;
 }
-.logos
+.logos {
+	margin-top: 100px;
+}
 .logos img{
 	max-width: 100%;
 }
